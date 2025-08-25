@@ -1,6 +1,8 @@
 # Proyecto MNIST - Regresión Logística
 
-Este proyecto implementa un modelo de **regresión logística** para clasificar imágenes del dataset **MNIST**. Incluye carga de datos, normalización, transformación de etiquetas, visualización de imágenes y predicciones, así como funciones para entrenamiento mediante gradiente descendente.
+Este proyecto implementa un modelo de **regresión logística** para clasificar imágenes del dataset **MNIST**.  
+El modelo **predice el número mostrado en cada imagen** basado en el entrenamiento con los datos normalizados y transformados.  
+
 
 ---
 
